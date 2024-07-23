@@ -10,4 +10,4 @@
 5 - <b>Headers</b>: Select "no" to avoid the first row being treated as header.<br>
 &emsp;&emsp;<i>Default: treat first row as header.</i><br><br>
 <h2>Output</h2>
-The output file will be saved in a sub-folder called OUTPUT, the file name will be "OUTPUT-" followed by the selected format (example: "OUTPUT-XLSB.xlsx").
+The output file will be saved in a sub-folder called <i>OUTPUT</i>, the file name will be <i>"OUTPUT-"</i> followed by the selected format (example: <i>"OUTPUT-XLSB.xlsx"</i>).
