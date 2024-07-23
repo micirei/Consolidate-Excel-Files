@@ -1,6 +1,6 @@
 <h2>How to use</h2>
 1 - <b>File format</b>: Specify the file format, supported: <b>xls</b>, <b>xlsx</b>, <b>xlsb</b>, <b>xlsm</b>. Soon <b>csv</b> too.<br>
-&emsp; <i>Default: all supported formats.</i><br>
+&emsp;&emsp;<i>Default: all supported formats.</i><br>
 2 - <b>Target sheet</b>: Select the target sheet.<br>
         <i>Default: First sheet.</i><br>
 3 - <b>Key column</b>: Select a column <b>number</b>, not letter (column A = 1, column B = 2). Empty rows for that column will be ignored.<br>
