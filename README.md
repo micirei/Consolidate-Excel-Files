@@ -1,5 +1,5 @@
 <h2>How to use</h2>
-1 - Specify the file format, supported: <b>xls</b>, <b>xlsx</b>, <b>xlsb</b>, <b>xlsm</b> Soon <b>csv</b> too.<br>
+1 - Specify the file format, supported: <b>xls</b>, <b>xlsx</b>, <b>xlsb</b>, <b>xlsm</b>. Soon <b>csv</b> too.<br>
 2 - Select the target sheet, if no input then the first sheet will be selected.<br>
 3 - You can select a KEY column (column number not letter, column A = 1, column B = 2, etc.), rows that are empty in the KEY column will be ignored and not imported.<br>
 4 - Select a row to start from.<br>
